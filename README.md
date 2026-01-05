@@ -22,9 +22,10 @@ The analysis includes:
 - Time-series analysis of life expectancy trends
 
 ## Repository Structure
+```
 week3-pandas-eda/
 ├─ data/
 │  └─ life_expectancy.csv
 ├─ life_expectancy_eda.ipynb
 └─ README.md
-
+```
